@@ -2,6 +2,7 @@ accounts-base@1.4.5
 accounts-facebook@1.3.2
 accounts-oauth@1.1.16
 accounts-password@1.5.1
+accounts-twitter@1.4.2
 accounts-ui@1.3.1
 accounts-ui-unstyled@1.4.2
 allow-deny@1.1.0
@@ -68,6 +69,7 @@ mongo-id@1.0.7
 npm-bcrypt@0.9.3
 npm-mongo@3.2.0
 oauth@1.2.8
+oauth1@1.2.2
 oauth2@1.2.1
 observe-sequence@1.0.16
 ordered-dict@1.1.0
@@ -94,6 +96,8 @@ templating-compiler@1.3.3
 templating-runtime@1.3.2
 templating-tools@1.1.2
 tracker@1.2.0
+twitter-config-ui@1.0.0
+twitter-oauth@1.2.0
 typescript@3.7.0
 ui@1.0.13
 underscore@1.0.10
